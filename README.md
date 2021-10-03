@@ -27,6 +27,7 @@ or you can enter the values in the config.json file
 
 Known Issues (under working)  
 1- pdf line length.
+2- can't scan binary files like images...
 
 To Do List  
 1- ability to add a cover page.  
