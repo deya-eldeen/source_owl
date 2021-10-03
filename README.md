@@ -4,8 +4,8 @@
     <img src="pdf_owl_logo.png">
 </p>
 
-Source Owl generates a PDF file, from specific file extensions, in one text file.
-It scans a folder for specific file extensions, and outputs a one huge file as .txt
+Source Owl generates a PDF file, it scans for specific file extensions you specify, and generates  
+a one huge text file.
 
 Usage:  
 1- enter the data in the config file  
