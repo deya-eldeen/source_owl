@@ -7,7 +7,8 @@
 Source Owl generates a PDF file, it scans for specific file extensions you specify, and generates  
 a one huge text file that contains all of these files...
 
-Setup:
+Setup:  
+install python3 and pip
 
      pip3 install -r requirements.txt 
 
