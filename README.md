@@ -4,8 +4,8 @@
     <img src="pdf_owl_logo.png">
 </p>
 
-Source Owl generates a PDF file, it scans for specific file extensions you specify, and generates  
-a one huge text file that contains all of these files...
+Source Owl is a (source code backup solution), it generates a PDF document out of your source code, it scans for specific file extensions you specify, and generates  
+a comprehensive document that contains the source code, along with simple statistics like number of lines & files.
 
 Setup:  
 install python3 and pip
