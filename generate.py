@@ -31,7 +31,7 @@ for r, d, f in os.walk(thisdir):
 os.chdir(original_pwd)
 thisdir = os.getcwd()
 
-# Open file3 in write mode
+# Open target_file in write mode
 with open(output_file, 'w') as outfile:
     for names in filenames:
         with open(names) as infile:
