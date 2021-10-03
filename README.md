@@ -1,9 +1,13 @@
 # Source Owl
 
-your boss asked you for the source code as a pdf file? 💔 
-source Owl can generate one... 😎
+<p align="center">
+    <img src="pdf_owl.png">
+</p>
 
-a simple tool (written in 15 minutes) to scan a folder for specific file extensions, and outputs a one huge file as .txt
+Your boss asked you for the source code as a PDF file? 💔 
+Source Owl can generate one... 😎
+
+I scans a folder for specific file extensions, and outputs a one huge file as .txt
 
 usage:
 enter the data in the config file
