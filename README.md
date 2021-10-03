@@ -12,7 +12,7 @@ Usage:
 2- run this command  
   python3 generate.py  
 
-To Do List
+To Do List  
 1- generate a pdf, not a txt file  
 2- simple summary of the source code, number of files, and number of lines  
 3- ability to add a cover page.  
