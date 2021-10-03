@@ -9,7 +9,8 @@ a one huge text file.
 
 Usage:  
 1- enter the data in the config file  
-2- run this command  
+2- pip3 install -r requirements.txt  
+3- run this command  
   python3 generate.py  
 
 To Do List  
