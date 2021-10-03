@@ -1,7 +1,7 @@
 # Source Owl
 
 <p align="center">
-    <img src="pdf_owl.png">
+    <img src="pdf_owl_logo.png">
 </p>
 
 Source Owl generates a PDF file, from specific file extensions, in one text file.
