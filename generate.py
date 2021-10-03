@@ -17,7 +17,7 @@ with open('config.json') as json_file:
 
 original_pwd = os.getcwd()
 
-os.chdir(target_folder) #os.getcwd()
+os.chdir(target_folder)
 thisdir = os.getcwd()
 
 # r=root, d=directories, f = files
