@@ -1,0 +1,4 @@
+{
+	"include_types":["swift","xcconfig"],
+	"output_file":"output.txt"
+}
