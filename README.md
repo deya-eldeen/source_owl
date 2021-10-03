@@ -5,13 +5,24 @@
 </p>
 
 Source Owl generates a PDF file, it scans for specific file extensions you specify, and generates  
-a one huge text file.
+a one huge text file that contains all of these files...
+
+Setup:
+
+     pip3 install -r requirements.txt 
 
 Usage:  
-1- enter the data in the config file  
-2- pip3 install -r requirements.txt  
-3- run this command  
-  python3 generate.py  
+
+you can pass the parameters like this   
+
+    python3 source_owl.py include_types outputfile target_directory  
+example  
+
+    python3 generate.py "['swift','xcconfig']" "report.txt" "/Users/deya/Projects/iOSProject"
+
+or you can enter the values in the config.json file
+
+    python3 generate.py  
 
 To Do List  
 1- generate a pdf, not a txt file  
