@@ -1,4 +1,5 @@
 {
 	"include_types":["swift","xcconfig"],
-	"output_file":"output.txt"
+	"output_file":"output.txt",
+	"target_folder":"/Users/yourusername/Projects/projectName"
 }
