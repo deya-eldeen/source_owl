@@ -1,4 +1,4 @@
-# source_to_pdf
+# Source To PDF
 
 your boss asked you for the source code as a pdf file? this tool can generate one...
 
