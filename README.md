@@ -25,7 +25,7 @@ or you can enter the values in the config.json file
 
     python3 generate.py  
 
-Known Issues (under working)
+Known Issues (under working)  
 1- pdf line length.
 
 To Do List  
