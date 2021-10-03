@@ -7,10 +7,10 @@
 Source Owl generates a PDF file, from specific file extensions, in one text file.
 It scans a folder for specific file extensions, and outputs a one huge file as .txt
 
-Usage:
-1- enter the data in the config file
-2- run this command
-  python3 generate.py
+Usage:  
+1- enter the data in the config file  
+2- run this command  
+  python3 generate.py  
 
 To Do List
 1- generate a pdf, not a txt file
