@@ -29,7 +29,7 @@ or you can enter the values in the config.json file
     python3 generate.py  
 
 Known Issues (under working)  
-1- pdf line length.
+1- pdf line length.  
 2- can't scan binary files like images...
 
 To Do List  
