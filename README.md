@@ -8,7 +8,7 @@ Source Owl is a PDF generator, it generates a PDF document out of your source co
 
 Real Life Use Cases:
 - Documenting the Source Code for copyrights legally
-- Backup
+- Hard copy backup
 
 Setup:  
 install python3 and pip
